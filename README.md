@@ -47,6 +47,5 @@ Sigue estos sencillos pasos para instalar la aplicación en tu dispositivo Andro
 
 ```
 
-¡Listo! Con eso el `README.md` aparecerá inmediatamente en la portada de tu repositorio con todas las instrucciones bien formateadas.
 
 ```
