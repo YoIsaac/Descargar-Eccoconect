@@ -1,9 +1,6 @@
 DESCARGAR APK
 
-1. En la página de tu repositorio que estás viendo, haz clic en el botón **`Add a README`** (está justo debajo de la lista de archivos).
-2. Se abrirá un editor. Borra lo que tenga y **copia y pega** el siguiente texto:
 
-```markdown
 # 🌱 EcoConnect - Guía de Instalación Rápida
 
 ¡Bienvenido a la página oficial de descarga de **EcoConnect**!
